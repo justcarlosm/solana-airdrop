@@ -50,3 +50,5 @@ const {
         await airDropSol();
         await getWalletBalance();
     }
+
+    driverFunction();
